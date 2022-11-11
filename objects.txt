@@ -1,0 +1,5 @@
+1 wooden sword
+5 golden sword
+2 diamond sword
+3 iron axe
+4 jade spear

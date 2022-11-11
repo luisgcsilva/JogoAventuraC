@@ -1,0 +1,34 @@
+-1 -1 -1 1 -1 -1 -1 -1
+After you pull yourself together, you look around,\n and find yourself in front of a castle.
+-1 2 0 3 -1 -1 0 -1
+You enter the castle, and found an item!
+1 -1 -1 4 -1 -1 -1 -1
+You decided to adventure deeper through the castle.
+-1 4 1 5 -1 -1 -1 -1
+You can hear some noises ahead, sound's like movement.
+3 -1 2 -1 -1 -1 1 -1
+Everything seems calm and there's a light breeze. There's something on the ground.
+6 7 3 -1 -1 -1 -1 -1
+You are scared but you face your fears and open the door wide open, you find some mice running around hiding from you. You still can hear the noises and now there are 2 paths.
+-1 5 -1 -1 -1 12 2 -1
+You enter the room thinking you would have to fight for your life with an aberration, but instead you just see some old bones laying around with an object. There is also a ladder.
+5 9 -1 8 -1 -1 -1 -1
+Here you come to find out what was the noise you were hearing. It was some other person stuck in that room talking to himself. You get his attention and he says: "Oh! Another one, never come to find out what happens to the other ones that pass through here."
+-1 14 7 -1 -1 -1 -1 -1
+The room's start to look all the same.
+7 13 10 -1 -1 10 -1 -1
+You keep hearing noises, and you are sure it is not the other person talking, you are certain that there is someone or something else in the castle.
+-1 -1 11 -1 9 -1 -1 -1
+The door for this room was bigger and made of carved wood. Inside you found what you would call the "Art Room", its full of paintings.
+-1 -1 12 10 -1 -1 -1 -1
+You feel cold as soon as you enter the room, theres is a hole in the roof and the moonlight lights the room enough that you see a bloody floor.
+-1 -1 -1 11 6 -1 -1 -1
+You climbed the ladder, and found a smaller room.
+9 -1 -1 14 -1 -1 -1 -1
+You found remains of what would be a monster.
+8 -1 13 15 -1 -1 -1 -1
+You found the throne room! It's still full of goods like gold and there is even a crown on the floor near the throne. You don't care about the riches you only want to survive and leave.
+16 -1 14 -1 -1 -1 -1 -1
+You entered the vault of the castle, even more riches here, but what catches your attention is the massive steel door in the back of the room.
+-1 15 -1 -1 -1 -1 1 1
+You opened massive steel door, and to your disbelief you see a tresure shining!
